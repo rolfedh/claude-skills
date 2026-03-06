@@ -11,6 +11,7 @@ Custom [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills for 
 | **diataxify** | `/diataxify review\|restructure [file]` | Audit or restructure documentation according to the [Diataxis](https://diataxis.fr/) framework (tutorials, how-to guides, reference, explanation). |
 | **jtbdize** | `/jtbdize [file]` | Apply the [Jobs to Be Done](https://strategyn.com/outcome-driven-innovation-process/jobs-to-be-done/) framework to rewrite navigation titles as user-centered, action-oriented imperatives. |
 | **modocify** | `/modocify review\|restructure [file]` | Check an AsciiDoc file against the [Red Hat modular documentation](https://redhat-documentation.github.io/modular-docs/) standard and flag issues by severity. |
+| **rhssg** | `/rhssg [file]` | Audit AsciiDoc files against the [Red Hat Supplementary Style Guide](https://redhat-documentation.github.io/supplementary-style-guide/) for grammar, formatting, structure, code examples, links, accessibility, release notes, and support terminology. |
 | **status-pr** | `/status-pr [github-url]` | Generate a one-line manager-ready status bullet from a GitHub PR, issue, or discussion URL. |
 
 ## Install
@@ -46,3 +47,4 @@ These skills apply established documentation frameworks:
 - [Diataxis](https://diataxis.fr/) — A systematic approach to organizing documentation into four content types along two axes (action/cognition, learning/working).
 - [Jobs to Be Done](https://strategyn.com/outcome-driven-innovation-process/jobs-to-be-done/) — A framework for writing user-centered titles that focus on outcomes, not features.
 - [Red Hat modular docs](https://redhat-documentation.github.io/modular-docs/) — A standard for structuring technical content as reusable concept, procedure, and reference modules.
+- [Red Hat Supplementary Style Guide](https://redhat-documentation.github.io/supplementary-style-guide/) — Style and language guidance that supplements the IBM Style guide for Red Hat product documentation.
