@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../quarkus"
+		},
+		{
+			"path": "../../../quarkus/quarkusio.github.io"
+		}
+	],
+	"settings": {}
+}
