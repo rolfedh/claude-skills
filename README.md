@@ -13,6 +13,7 @@ Custom [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills for 
 | **modocify** | `/modocify review\|restructure [file]` | Check an AsciiDoc file against the [Red Hat modular documentation](https://redhat-documentation.github.io/modular-docs/) standard and flag issues by severity. |
 | **rhssg** | `/rhssg [file]` | Audit AsciiDoc files against the [Red Hat Supplementary Style Guide](https://redhat-documentation.github.io/supplementary-style-guide/) for grammar, formatting, structure, code examples, links, accessibility, release notes, and support terminology. |
 | **status-pr** | `/status-pr [github-url]` | Generate a one-line manager-ready status bullet from a GitHub PR, issue, or discussion URL. |
+| **usecasify** | `/usecasify [directory-or-file]` | Analyze a documentation directory and produce a JTBD use-case report with job statements, content classification, title recommendations, proposed TOC, parent topic outlines, and content gap analysis. |
 
 ## Install
 
