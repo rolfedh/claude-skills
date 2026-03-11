@@ -106,7 +106,7 @@ Each parent topic outline includes:
 
 ## Step 6: Write the report
 
-Write all results to a markdown file at `<input-directory>/usecasify-report.md`.
+Write all results to a markdown file at `<input-directory>/usecasify-report.md`. The report is a reorganization plan — it recommends how to restructure and retitle existing content around jobs, not a mandate to rewrite everything from scratch.
 
 If the input is a single file, write to the same directory as that file.
 
@@ -127,6 +127,12 @@ Use this structure:
 | File | Current title | Content type | Current category | Recommended title |
 |---|---|---|---|---|
 | `path/file.adoc` | Original Title | How-to | Configure | Recommended JTBD title |
+
+## Current TOC
+
+_(Include only if a navigation file was found in Step 1.)_
+
+Reproduce the current navigation structure as a nested markdown list, so the reader can compare before and after.
 
 ## Proposed TOC
 
