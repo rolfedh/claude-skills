@@ -1,6 +1,7 @@
 ---
 layout: default
 title: /jtbdmoddocsify
+nav_order: 4
 ---
 
 # /jtbdmoddocsify
@@ -149,5 +150,3 @@ Any content loss must be fixed before proceeding. You are asked explicitly wheth
 | Metadata | `:_mod-docs-content-type:` | `:diataxis-type:` |
 | Required structure | ID anchors, context variables, approved headings, abstract paragraphs | Minimal structural requirements |
 | Best for | Red Hat downstream product docs | Upstream open-source docs, Antora sites |
-
-[Back to overview](.)
