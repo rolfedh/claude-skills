@@ -1,6 +1,7 @@
 ---
 layout: default
 title: /jtbdiataxify
+nav_order: 3
 ---
 
 # /jtbdiataxify
@@ -125,5 +126,3 @@ Any content loss must be fixed before proceeding. You are asked explicitly wheth
 | `security-oidc-howto.adoc` | Configure OIDC for your application | How-to |
 | `security-oidc-auth0-tutorial.adoc` | Build an OIDC application with Auth0 | Tutorial |
 | `security-oidc-reference.adoc` | OIDC configuration properties | Reference |
-
-[Back to overview](.)

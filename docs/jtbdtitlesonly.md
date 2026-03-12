@@ -1,6 +1,7 @@
 ---
 layout: default
 title: /jtbdtitlesonly
+nav_order: 2
 ---
 
 # /jtbdtitlesonly
@@ -112,5 +113,3 @@ Secure applications with OIDC
 Build your first Quarkus application
 OIDC configuration properties
 ```
-
-[Back to overview](.)

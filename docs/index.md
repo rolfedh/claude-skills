@@ -1,6 +1,8 @@
 ---
 layout: default
-title: JTBD Documentation Skills
+title: Home
+nav_order: 1
+permalink: /
 ---
 
 # JTBD Documentation Skills
